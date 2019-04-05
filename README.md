@@ -1,2 +1,2 @@
-# Superclusters
-Visual play with a local supercluster map
+# Air quality project
+Measuring and displaying air humidity and quality
